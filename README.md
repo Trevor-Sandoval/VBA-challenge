@@ -11,5 +11,7 @@ The objective is to create a script that will loop through all of the stocks for
 Info About the Script:
 The script file is called Module_2_Assignment_VBA_Challenge
 
+Please find the PNG images attached along 
 
-Please find the png images attached along 
+References:
+Please note that some portions of my code were inspired by my own research on the internet. Some lines of my text were formulated by my utilization of Stack Overflow and Google Search.
