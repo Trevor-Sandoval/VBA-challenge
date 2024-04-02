@@ -17,5 +17,5 @@ Please find the PNG images attached along
 References:
 Please note that some portions of my code's structure were inspired by my research on the internet. At the beginning of this boot camp, we were encouraged to be proactive with utilizing the internet as a resource for finding solutions to complex problems that also contributed to our edification. Thus, I was able to formulate my assignment after conducting some independent research on Stack Overflow and Google Search.  
 
-Update (4/02): I think I want to SKIP this module assignment and avoide being graded for it. I am not 100% sure I did this assignment correctly, and would feel safer just skipping it altogether. 
+Update (4/02): I think I want to SKIP this module assignment and avoid being graded for it. I am not 100% sure I did this assignment correctly, and would feel safer just skipping it altogether. 
 
